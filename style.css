@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(49, 57, 60);
+    width: 200px;
+    height:200px;
+}
+button{
+    position: absolute;
+   border-radius: 10px; 
+   border: 0px;
+   float: right;
+   right: 10px;
+}
+#top{
+    position: absolute;
+    font-size: medium;
+    color: rgb(227, 227, 227);
+    left: 40px;
+    
+}
+#mhead{
+    position: absolute;
+    left:0px;
+    width:220px;
+    top:0px;
+    padding-top: 5px;
+    height: 25px;
+    background-color: rgb(62, 74, 79);
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
