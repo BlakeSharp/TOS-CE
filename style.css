@@ -1,29 +1,36 @@
 body{
     background-color: rgb(49, 57, 60);
-    width: 200px;
-    height:200px;
+    width: 300px;
+    height: 300px;
+}
+div{
+    position: absolute;
 }
 button{
     position: absolute;
-   border-radius: 10px; 
-   border: 0px;
-   float: right;
-   right: 10px;
+    font-size:xx-large;
+    border-radius: 50px; 
+    border: 0px;
+}
+#buttonhead{
+    float: right;
+    right: 10px;
 }
 #top{
     position: absolute;
     font-size: medium;
     color: rgb(227, 227, 227);
     left: 40px;
-    
+
 }
 #mhead{
+    font-size: larger;
     position: absolute;
     left:0px;
-    width:220px;
+    width:100%;
     top:0px;
     padding-top: 5px;
-    height: 25px;
+    height: 10%;
     background-color: rgb(62, 74, 79);
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
