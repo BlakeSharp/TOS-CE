@@ -1,6 +1,6 @@
 {
     "name": "Getting Started Example",
-    "description": "Build an Extension!",
+    "description": "This extension is a tool for streamers and weary internet surfers to browse a more safe internet. Utilizing community-driven information sourcing, TOS Helper ensures users are aware of any graphic or risky content in a webpage or video. When unwanted content is detected, TOS Helper can automatically skip the content in videos or even replace the images on a webpage.",
     "version": "1.0",
     "manifest_version": 3,
     "background": {
