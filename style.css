@@ -8,7 +8,11 @@ body{
 div{
     position: absolute;
 }
-button{
+#SettingsButton{
+    background-color: transparent;
+    border: 0px;
+}
+#MainButtons{
     position: absolute;
     font-size:xx-large;
     border-radius: 50px; 
