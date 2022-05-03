@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(49, 57, 60);
+    background-color: rgb(42, 45, 52);
     width: 300px;
     height: 100px ;
     font-family: 'Courier New', Courier, monospace;
@@ -11,12 +11,14 @@ div{
 #SettingsButton{
     background-color: transparent;
     border: 0px;
+    
 }
 #MainButtons{
     position: absolute;
     font-size:xx-large;
     border-radius: 50px; 
-    border: 0px;
+    border-style: none;
+
 }
 #buttonhead{
     float: right;
@@ -33,10 +35,10 @@ div{
     font-size: larger;
     position: absolute;
     left:0px;
-    width:100%;
+    width:120%;
     top:0px;
     padding-top: 5px;
     height: 10%;
-    background-color: rgb(62, 74, 79);
-    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background-color: rgb(160, 221, 230);
+    box-shadow: 0px 1px 10px #A0DDE6;
 }
