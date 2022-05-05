@@ -12,16 +12,16 @@ label{
     font: larger;
     font-weight: bolder;
 }
-#toshelp{
-    position:absolute;font-weight: bold;top:5px;left:10px;font-size: larger;
-}
-#SettingsButton{
+
+.mhead{
+    height:30px;
+    font-size: x-large;
     position: absolute;
-    left: 270px;
-    top:2px;
-    background-color:transparent;
-    border:0px;
-    border: 0px
+    left:0px;
+    top:0px;
+    width:120%;
+    background-color: rgb(160, 221, 230);
+    box-shadow: 0px 1px 5px black;
 }
 .MainButtons{
     position: absolute;
@@ -29,6 +29,18 @@ label{
     border-radius: 50px; 
     border-style: none;
 
+}
+#toshelp{
+    color: black; text-decoration: none;
+    position:absolute;font-weight: bold;top:1px;left:10px;font-size: larger;
+}
+#SettingsButton{
+    position: absolute;
+    left: 270px;
+    top:-1px;
+    background-color:transparent;
+    border:0px;
+    border: 0px
 }
 #buttonhead{
     float: right;
@@ -47,18 +59,8 @@ label{
     top:55px
 }
 #button1{
-    width: max-content;left:20px
+    width: max-content;left:10px
 }
 #button2{
-    width: max-content;left:150px
-}
-.mhead{
-    height:30px;
-    font-size: x-large;
-    position: absolute;
-    width:120%;
-    padding-left: 10px;
-    padding-top: 5px;
-    background-color: rgb(160, 221, 230);
-    box-shadow: 0px 1px 10px #A0DDE6;
+    width: max-content;left:165px
 }
