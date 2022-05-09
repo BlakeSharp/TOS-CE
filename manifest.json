@@ -14,5 +14,6 @@
         "css": ["style.css"],
         "js": ["background.js"]
       }
-    ]
+    ],
+    "options_page": "options.html"
   }
