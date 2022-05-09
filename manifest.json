@@ -15,5 +15,5 @@
         "js": ["background.js"]
       }
     ],
-    "options_page": "options.html"
+    "options_page": "Options/index.html"
   }
